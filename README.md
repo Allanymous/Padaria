@@ -1,1 +1,1 @@
-<h1 style="text-align: center">Padaria Murpura</h1>
+<h1 align="center">Padaria Murpura</h1>
