@@ -2,7 +2,7 @@
 <img  src="https://i.postimg.cc/t7QwvL7z/logo.png" width="50%">
 </p>
 <br>
-<h1 align="center" color="red"> Projeto Padaria Murpura feito em HTML, Javascipt, CSS. </h1>
+<h1 align="center"> Projeto Padaria Murpura feito em HTML, Javascipt, CSS. </h1>
 
 <p align="justify">Projeto de padaria fictícia com divisões de home principal; aréa "Sobre nós" com imagem e texto elucidativo em relação à empresa; seção de contato com endereço metafórico, número e e-mail; agrupamento de produtos com fotos, características e preço; área final com caracterização de possíveis colaboradores e suas competências das determinadas áreas de exercício.</p>
 <br>
